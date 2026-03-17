@@ -1,0 +1,969 @@
+Total companii: 967
+ticker | nume_complet | bursa
+06N.WA | Magna Polonia SA | Warsaw Stock Exchange
+08N.WA | Octava SA | Warsaw Stock Exchange
+11B.WA | 11 Bit Studios SA | Warsaw Stock Exchange
+1AT.WA | Atal SA | Warsaw Stock Exchange
+1GVR001E.BV | Gevorkyan as | Bratislava Stock Exchange
+1TMR001E.PR | Tatry Mountain Resorts as | Prague Stock Exchange
+3RG.WA | 3R Games SA | Warsaw Stock Exchange
+4MSP.WA | 4Mass SA | Warsaw Stock Exchange
+AAAA.PR^G13 | AAA Auto Group NV | Prague Stock Exchange
+AALP.WA^G18 | AviaAM Leasing Service Centre AB | Warsaw Stock Exchange
+AATP.WA | Alta SA | Warsaw Stock Exchange
+ABA.WA^C19 | Murapol Real Estate SA | Warsaw Stock Exchange
+ABCP.WA^L19 | Vicis New Investments SA | Warsaw Stock Exchange
+ABEP.WA | AB SA | Warsaw Stock Exchange
+ABMP.WA^G19 | ABM Solid SA w upadlosci likwidacyjnej | Warsaw Stock Exchange
+ABSP.WA | Asseco Business Solutions SA | Warsaw Stock Exchange
+ACEP.WA^B16 | Automotive Components Europe SA | Warsaw Stock Exchange
+ACGP.WA | AC SA | Warsaw Stock Exchange
+ACPP.WA | Asseco Poland SA | Warsaw Stock Exchange
+ACSP.WA^E17 | Asseco Central Europe as | Warsaw Stock Exchange
+ACT.WA | Action SA | Warsaw Stock Exchange
+ADANA.IS^E20 | Adana Cimento Sanayii TAS | Istanbul Stock Exchange
+ADEL.IS | Adel Kalemcilik Ticaret ve Sanayi AS | Istanbul Stock Exchange
+ADESE.IS | Adese Gayrimenkul Yatirim AS | Istanbul Stock Exchange
+ADNAC.IS^E20 | Adana Cimento Sanayii TAS | Istanbul Stock Exchange
+ADSP.WA^K15 | Advadis SA w upadlosci likwidacyjnej | Warsaw Stock Exchange
+ADV.WA | Adiuvo Investments SA W Restrukturyzacji | Warsaw Stock Exchange
+AEFES.IS | Anadolu Efes Biracilik ve Malt Sanayii AS | Istanbul Stock Exchange
+AFYON.IS | Afyon Cimento Sanayi TAS | Istanbul Stock Exchange
+AGESA.IS | Agesa Hayat ve Emeklilik AS | Istanbul Stock Exchange
+AGHOL.IS | AG Anadolu Grubu Holding AS | Istanbul Stock Exchange
+AGOP.WA | Agora SA | Warsaw Stock Exchange
+AGROT.IS | Agrotech Yuksek Teknoloji ve Yatirim AS | Istanbul Stock Exchange
+AGTP.WA | Agroton Public Ltd | Warsaw Stock Exchange
+AHGAZ.IS | Ahlatci Dogal Gaz Dagitim Enerji ve Yatirim AS | Istanbul Stock Exchange
+AHL.WA^H18 | AAT Holding SA | Warsaw Stock Exchange
+AKBNK.IS | Akbank TAS | Istanbul Stock Exchange
+AKCNS.IS | Akcansa Cimento Sanayi ve Ticaret AS | Istanbul Stock Exchange
+AKENR.IS | Akenerji Elektrik Uretim AS | Istanbul Stock Exchange
+AKFEN.IS^E16 | Akfen Holding AS | Istanbul Stock Exchange
+AKFGY.IS | Akfen Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+AKFYE.IS | Akfen Yenilenebilir Enerji AS | Istanbul Stock Exchange
+AKGRT.IS | AK Sigorta AS | Istanbul Stock Exchange
+AKKO.BU | AKKO Invest Nyrt | Budapest Stock Exchange
+AKSA.IS | Aksa Akrilik Kimya Sanayii AS | Istanbul Stock Exchange
+AKSEN.IS | Aksa Enerji Uretim AS | Istanbul Stock Exchange
+AKSGY.IS | Akis Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+ALARK.IS | Alarko Holding Inc | Istanbul Stock Exchange
+ALBRK.IS | Albaraka Turk Katilim Bankasi AS | Istanbul Stock Exchange
+ALCP.WA^K19 | Alchemia SA | Warsaw Stock Exchange
+ALCTL.IS | Alcatel Lucent Teletas Telekomunikasyon AS | Istanbul Stock Exchange
+ALEP.WA | Allegro.eu SA | Warsaw Stock Exchange
+ALFAS.IS | Alfa Solar Enerji Sanayi ve Ticaret AS | Istanbul Stock Exchange
+ALGP.WA | All In! Games SA | Warsaw Stock Exchange
+ALGYO.IS | Alarko Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+ALI.WA | Altus SA | Warsaw Stock Exchange
+ALKIM.IS | Alkim Alkali Kimya AS | Istanbul Stock Exchange
+ALL1.WA | Ailleron SA | Warsaw Stock Exchange
+ALMA.WA^F18 | Alma Market SA w upadlosci | Warsaw Stock Exchange
+ALR.BX | Alro SA | The Bucharest Stock Exchange
+ALRR.WA | Alior Bank SA | Warsaw Stock Exchange
+ALTER.WA^E16 | Alterco SA | Warsaw Stock Exchange
+ALTNY.IS | Altinay Savunma Teknolojileri AS | Istanbul Stock Exchange
+ALTS.BU | Alteo Energiaszolgaltato Nyrt | Budapest Stock Exchange
+AMB.WA | Ambra SA | Warsaw Stock Exchange
+AMCP.WA | Amica SA | Warsaw Stock Exchange
+AMT.WA^K23 | Hydro Aluminium Poland Sp z o o | Warsaw Stock Exchange
+ANACM.IS^J20 | Anadolu Cam Sanayii AS | Istanbul Stock Exchange
+ANELE.IS | Anel Elektrik Proje Taahhut ve Ticaret AS | Istanbul Stock Exchange
+ANHYT.IS | Anadolu Hayat Emeklilik AS | Istanbul Stock Exchange
+ANRP.WA | Answear.com SA | Warsaw Stock Exchange
+ANSGR.IS | Anadolu Anonim Turk Sigorta Sti | Istanbul Stock Exchange
+ANYB.BU | ANY Biztonsagi Nyomda Nyrt | Budapest Stock Exchange
+APEP.WA | APS Energia SA | Warsaw Stock Exchange
+APIP.WA^F17 | Aplitt SA | Warsaw Stock Exchange
+APN.WA | Aplisens SA | Warsaw Stock Exchange
+APPB.BU | Appeninn Vagyonkezelo Holding Nyrt | Budapest Stock Exchange
+APR.WA | Auto Partner SA | Warsaw Stock Exchange
+APTP.WA | Apator SA | Warsaw Stock Exchange
+ARCLK.IS | Arcelik AS | Istanbul Stock Exchange
+ARCP.WA^D20 | Arcus SA | Warsaw Stock Exchange
+ARDYZ.IS | Ard Grup Bilisim Teknolojileri AS | Istanbul Stock Exchange
+ARHP.WA | Archicom SA | Warsaw Stock Exchange
+ARL1.WA | Arlen SA | Warsaw Stock Exchange
+ARMP.WA^C14 | Armatura Krakow SA | Warsaw Stock Exchange
+ARRP.WA^H23 | Arteria SA | Warsaw Stock Exchange
+ARTP.WA | Artifex Mundi SA | Warsaw Stock Exchange
+ASBP.WA | ASBISc Enterprises PLC | Warsaw Stock Exchange
+ASELS.IS | Aselsan Elektronik Sanayi ve Ticaret AS | Istanbul Stock Exchange
+ASEP.WA | Asseco South Eastern Europe SA | Warsaw Stock Exchange
+ASG.WA^K18 | Avia Solutions Group AB | Warsaw Stock Exchange
+ASGYO.IS | Asce Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+ASMG.WA | ASM Group SA | Warsaw Stock Exchange
+ASTH.WA | Astarta Holding PLC | Warsaw Stock Exchange
+ASTOR.IS | Astor Enerji AS | Istanbul Stock Exchange
+ASUZU.IS | Anadolu Isuzu Otomotiv Sanayii ve Ticaret AS | Istanbul Stock Exchange
+ASYAB.IS^G16 | Asya Katilim Bankasi AS | Istanbul Stock Exchange
+ATB.BX | Antibiotice SA | The Bucharest Stock Exchange
+ATC.WA | Arctic Paper SA | Warsaw Stock Exchange
+ATDP.WA | Atende SA | Warsaw Stock Exchange
+ATGP.WA | ATM Grupa SA | Warsaw Stock Exchange
+ATLP.WA^C23 | Atlas Estates Ltd | Warsaw Stock Exchange
+ATMP.WA^J20 | Atman Sp z o o | Warsaw Stock Exchange
+ATP.WA | Atlanta Poland SA | Warsaw Stock Exchange
+ATRP.WA | Atrem SA | Warsaw Stock Exchange
+ATSP.WA | Atlantis SE | Warsaw Stock Exchange
+ATTP.WA | Grupa Azoty SA | Warsaw Stock Exchange
+AUGP.WA^D22 | Auga Group AB | Warsaw Stock Exchange
+AUTW.BU | AutoWallis Nyrt | Budapest Stock Exchange
+AVOD.IS | AVOD Kurutulmus Gida ve Tarim Urunleri Sanayi Ticaret AS | Istanbul Stock Exchange
+AVPGY.IS | Avrupakent Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+AVST.PR^I22 | Avast Ltd | Prague Stock Exchange
+AWB.WA^D21 | Partnerbud SA w upadlosci | Warsaw Stock Exchange
+AWM.WA | Airway Medix SA | Warsaw Stock Exchange
+AYDEM.IS | Aydem Yenilenebilir Enerji AS | Istanbul Stock Exchange
+AYEN.IS | Ayen Enerji AS | Istanbul Stock Exchange
+AYGAZ.IS | Aygaz AS | Istanbul Stock Exchange
+B24P.WA | Brand 24 SA | Warsaw Stock Exchange
+B3S.WA^C18 | B3System SA | Warsaw Stock Exchange
+BADP.WA^H17 | BACD SA | Warsaw Stock Exchange
+BAGFS.IS | Bagfas Bandirma Gubre Fabrikalari AS | Istanbul Stock Exchange
+BAHP.WA^F24 | British Automotive Holding w Upadlosci SA | Warsaw Stock Exchange
+BAKP.WA^B15 | Foodwell Sp z o o | Warsaw Stock Exchange
+BAL.WA^G20 | Przedsiebiorstwo Handlu Zagranicznego Baltona SA | Warsaw Stock Exchange
+BALSU.IS | Balsu Gida Sanayi ve Ticaret AS | Istanbul Stock Exchange
+BANVT.IS | Banvit Bandirma Vitaminli Yem Sanayi AS | Istanbul Stock Exchange
+BAPL.WA^E10 | Bankier.pl SA | Warsaw Stock Exchange
+BASGZ.IS | Baskent Dogalgaz Dagitim Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+BBD.WA | BBI Development SA | Warsaw Stock Exchange
+BBT1.WA | Boombit SA | Warsaw Stock Exchange
+BCMP.WA | Betacom SA | Warsaw Stock Exchange
+BCSP.WA | Big Cheese Studio SA | Warsaw Stock Exchange
+BCXP.WA | Bioceltix SA | Warsaw Stock Exchange
+BDLP.WA^L19 | Budopol Wroclaw SA | Warsaw Stock Exchange
+BDXP.WA | Budimex SA | Warsaw Stock Exchange
+BERA.IS | Bera Holding AS | Istanbul Stock Exchange
+BESLR.IS | Besler Gida ve Kimya Sanayi ve Ticaret AS | Istanbul Stock Exchange
+BFREN.IS | Bosch Fren Sistemleri Sanayi ve Ticaret AS | Istanbul Stock Exchange
+BFT.WA | Benefit Systems SA | Warsaw Stock Exchange
+BHW.WA | Bank Handlowy w Warszawie SA | Warsaw Stock Exchange
+BIENY.IS | Bien Yapi Urunleri Sanayi Turizm ve Ticaret AS | Istanbul Stock Exchange
+BIFR.BU | Budapesti Ingatlan Hasznositasi es Fejlesztesi Nyrt | Budapest Stock Exchange
+BIK.WA^I21 | Biuro Inwestycji Kapitalowych SA | Warsaw Stock Exchange
+BIMAS.IS | BIM Birlesik Magazalar AS | Istanbul Stock Exchange
+BINHO.IS | 1000 Yatirimlar Holding AS | Istanbul Stock Exchange
+BIOEN.IS | Biotrend Cevre ve Enerji Yatirimlari AS | Istanbul Stock Exchange
+BIOP.WA | Bioton SA | Warsaw Stock Exchange
+BIP.WA | Bio Planet SA | Warsaw Stock Exchange
+BIZIM.IS | Bizim Toptan Satis Magazalari AS | Istanbul Stock Exchange
+BJKAS.IS | Besiktas Futbol Yatirimlari Sanayi ve Ticaret AS | Istanbul Stock Exchange
+BKOM.PR | Komercni Banka as | Prague Stock Exchange
+BLOP.WA | Bloober Team SA | Warsaw Stock Exchange
+BMCP.WA | Bumech SA | Warsaw Stock Exchange
+BMEKS.IS^D19 | Iflas Nedeniyle Tasfiye Halinde Bimeks Bilgi Islem Ve Dis Ticaret AS | Istanbul Stock Exchange
+BMI.WA^I13 | Bomi SA w upadlosci likwidacyjnej | Warsaw Stock Exchange
+BMX.WA | BioMaxima SA | Warsaw Stock Exchange
+BNP.WA^E15 | BNP Paribas Bank Polska SA (PRE-MERGER) | Warsaw Stock Exchange
+BNP1.WA | BNP Paribas Bank Polska SA | Warsaw Stock Exchange
+BOBET.IS | Bogazici Beton Sanayi ve Ticaret AS | Istanbul Stock Exchange
+BORY.WA | Boryszew SA | Warsaw Stock Exchange
+BOSP.WA | Bank Ochrony Srodowiska SA | Warsaw Stock Exchange
+BOWP.WA | Bowim SA | Warsaw Stock Exchange
+BOYNR.IS^C17 | Boyner Buyuk Magazacilik AS | Istanbul Stock Exchange
+BPHP.WA^L16 | Bank BPH SA | Warsaw Stock Exchange
+BPMP.WA^E15 | Bipromet SA | Warsaw Stock Exchange
+BRAR.WA^L25 | Braster SA | Warsaw Stock Exchange
+BRG.WA^F23 | Berling SA | Warsaw Stock Exchange
+BRISA.IS | Brisa Bridgestone Sabanci Lastik Sanayi ve Ticaret AS | Istanbul Stock Exchange
+BRKP.WA^C14 | Barlinek SA | Warsaw Stock Exchange
+BRSAN.IS | Borusan Birlesik Boru Fabrikalari Sanayi Ve Ticaret AS | Istanbul Stock Exchange
+BRYAT.IS | Borusan Yatirim ve Pazarlama AS | Istanbul Stock Exchange
+BSCP.WA^G20 | Gpi Poznan Sp z o o | Warsaw Stock Exchange
+BSHEV.IS^B14 | BSH Ev Aletleri Sanayi ve Ticaret AS | Istanbul Stock Exchange
+BSOKE.IS | Batisoke Soke Cimento Sanayii TAS | Istanbul Stock Exchange
+BTCIM.IS | Baticim Bati Anadolu Cimento Sanayii AS | Istanbul Stock Exchange
+BTM.WA^L18 | Bytom SA | Warsaw Stock Exchange
+BUCIM.IS | Bursa Cimento Fabrikasi AS | Istanbul Stock Exchange
+BUTL.BU^F15 | Business Telecom Nyrt fa | Budapest Stock Exchange
+BWOP.WA^E19 | BUWOG Group GmbH | Warsaw Stock Exchange
+CANTE.IS | Can2 Termik AS | Istanbul Stock Exchange
+CAP1.WA | Capitea SA | Warsaw Stock Exchange
+CARP.WA | Inter Cars SA | Warsaw Stock Exchange
+CAVP.WA | Cavatina Holding SA | Warsaw Stock Exchange
+CBF.WA | Cyber_Folks SA | Warsaw Stock Exchange
+CCE1.WA | Clean&Carbon Energy SA | Warsaw Stock Exchange
+CCOLA.IS | Coca-Cola Icecek AS | Istanbul Stock Exchange
+CDLP.WA | CDRL SA | Warsaw Stock Exchange
+CDR.WA | CD Projekt SA | Warsaw Stock Exchange
+CEDC.WA^F13 | Roust Corp (Pre-Reincorporation) | Warsaw Stock Exchange
+CELA.WA^H12 | Mondi Swiecie Sp z o o | Warsaw Stock Exchange
+CEMAS.IS | Cemas Dokum Sanayi AS | Istanbul Stock Exchange
+CEMTS.IS | Cemtas Celik Makina Sanayi ve Ticaret AS | Istanbul Stock Exchange
+CETV.PR^J20 | Central European Media Enterprises Ltd | Prague Stock Exchange
+CEZ.WA | CEZ as | Warsaw Stock Exchange
+CEZP.PR | CEZ as | Prague Stock Exchange
+CFIP.WA | CFI Holding SA | Warsaw Stock Exchange
+CFLP.WA^J17 | Cash Flow SA | Warsaw Stock Exchange
+CHSA.WA^C20 | Chemoservis-Dwory SA w upadlosci | Warsaw Stock Exchange
+CIEP.WA^C24 | Qemetica SA | Warsaw Stock Exchange
+CIG.WA | CI Games SE | Warsaw Stock Exchange
+CIGP.BU | CIG Pannonia Eletbiztosito Nyrt | Budapest Stock Exchange
+CIMSA.IS | Cimsa Cimento Sanayi ve Ticaret AS | Istanbul Stock Exchange
+CKL.WA^K12 | Centrum Klima SA | Warsaw Stock Exchange
+CLC.WA | Columbus Energy SA | Warsaw Stock Exchange
+CLDP.WA | Cloud Technologies SA | Warsaw Stock Exchange
+CLEBI.IS | Celebi Hava Servisi AS | Istanbul Stock Exchange
+CLEP.WA | Coal Energy SA | Warsaw Stock Exchange
+CLNP.WA | Celon Pharma SA | Warsaw Stock Exchange
+CMP.WA | Comp SA | Warsaw Stock Exchange
+CMR.WA^C25 | Comarch SA | Warsaw Stock Exchange
+CNG.WA^C21 | Ceramika Nowa Gala SA | Warsaw Stock Exchange
+CNT.WA^E23 | Centrum Nowoczesnych Technologii SA | Warsaw Stock Exchange
+COGP.WA | Cognor Holding SA | Warsaw Stock Exchange
+COLIA.WA^I18 | Colian Holding Sp z o o | Warsaw Stock Exchange
+COMI.BX | Condmag SA | The Bucharest Stock Exchange
+COTE.BX | Conpet SA | The Bucharest Stock Exchange
+CPAP.WA | Capital Partners SA w likwidacji | Warsaw Stock Exchange
+CPD.WA | CPD SA | Warsaw Stock Exchange
+CPGP.WA^I23 | CP Strategic Assets SA | Warsaw Stock Exchange
+CPI1.WA | CPI Europe AG | Warsaw Stock Exchange
+CPLP.WA | Comperia.pl SA | Warsaw Stock Exchange
+CPRP.WA | Compremum SA | Warsaw Stock Exchange
+CPS.WA | Cyfrowy Polsat SA | Warsaw Stock Exchange
+CRFSA.IS | CarrefourSA Carrefour Sabanci Ticaret Merkezi AS | Istanbul Stock Exchange
+CRI1.WA | Creotech Instruments SA | Warsaw Stock Exchange
+CRJ.WA | Creepy Jar SA | Warsaw Stock Exchange
+CRM.WA | PZ Cormay SA | Warsaw Stock Exchange
+CSRP.WA | Caspar Asset Management SA | Warsaw Stock Exchange
+CTCP.WA^L19 | Calatrava Capital SA | Warsaw Stock Exchange
+CTGP.WA^F20 | Cube.ITG SA | Warsaw Stock Exchange
+CTSP.WA | City Service SE | Warsaw Stock Exchange
+CTXP.WA | Captor Therapeutics SA | Warsaw Stock Exchange
+CVKMD.IS | Cvk Maden Isletmeleri Sanayi ve Ticaret AS | Istanbul Stock Exchange
+CWENE.IS | Cw Enerji Muhendislik Ticaret ve Sanayi AS | Istanbul Stock Exchange
+CZG.PR | Colt CZ Group SE | Prague Stock Exchange
+DADP.WA | Dadelo SA | Warsaw Stock Exchange
+DAFR.BX^F24 | Dafora SA | The Bucharest Stock Exchange
+DANH.BU^I15 | Danubius Szalloda es Gyogyudulo Zrt | Budapest Stock Exchange
+DAPGM.IS | Dap Gayrimenkul Gelistirme AS | Istanbul Stock Exchange
+DATP.WA | Datawalk SA | Warsaw Stock Exchange
+DBC.WA | Firma Oponiarska Debica SA | Warsaw Stock Exchange
+DBE.WA | DB Energy SA | Warsaw Stock Exchange
+DCR.WA | Decora SA | Warsaw Stock Exchange
+DEK.WA | Dekpol SA | Warsaw Stock Exchange
+DELP.WA | Delko SA | Warsaw Stock Exchange
+DELTA.BU | Delta Group Nyrt | Budapest Stock Exchange
+DEVA.IS | Deva Holding AS | Istanbul Stock Exchange
+DGA.WA | DGA SA | Warsaw Stock Exchange
+DGATE.IS | Datagate Bilgisayar Malzemeleri Ticaret AS | Istanbul Stock Exchange
+DGE1.WA | Drago Entertainment SA | Warsaw Stock Exchange
+DGGYO.IS | Dogus Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+DGNMO.IS | Doganlar Mobilya Grubu Imalat Sanayi ve Ticaret AS | Istanbul Stock Exchange
+DGZTE.IS^B19 | Demiroren Gazetecilik AS | Istanbul Stock Exchange
+DIAP.WA | Diagnostyka SA | Warsaw Stock Exchange
+DIG1.WA | Digital Network SA | Warsaw Stock Exchange
+DIGI.BX | Digi Communications NV | The Bucharest Stock Exchange
+DMGP.WA | Dr Miele Cosmed Group SA | Warsaw Stock Exchange
+DNP.WA | Dino Polska SA | Warsaw Stock Exchange
+DOAS.IS | Dogus Otomotiv Servis ve Ticaret AS | Istanbul Stock Exchange
+DOCO.IS | DO & CO AG | Istanbul Stock Exchange
+DOHOL.IS | Dogan Sirketler Grubu Holding AS | Istanbul Stock Exchange
+DOMP.WA | Dom Development SA | Warsaw Stock Exchange
+DPL.WA^B25 | Drozapol Profil SA | Warsaw Stock Exchange
+DRP.WA^L20 | Drop SA | Warsaw Stock Exchange
+DSPW.PR | Doosan Skoda Power as | Prague Stock Exchange
+DSS.WA^I15 | Dolnoslaskie Surowce Skalne SA w upadlosci likwidacyjnej | Warsaw Stock Exchange
+DSTKF.IS | Destek Finans Faktoring AS | Istanbul Stock Exchange
+DTPP.WA^F16 | DTP SA | Warsaw Stock Exchange
+DTRP.WA | Digitree Group SA | Warsaw Stock Exchange
+DUOP.WA^F16 | Fortum Markets Polska SA | Warsaw Stock Exchange
+DVLP.WA | Develia SA | Warsaw Stock Exchange
+DYHOL.IS^I14 | Dogan Yayin Holding AS | Istanbul Stock Exchange
+DYOBY.IS | Dyo Boya Fabrikalari Sanayi Ve Ticaret AS | Istanbul Stock Exchange
+EAHP.WA | Esotiq & Henderson SA | Warsaw Stock Exchange
+EATP.WA | Amrest Holdings SE | Warsaw Stock Exchange
+ECBP.WA | Ecb SA | Warsaw Stock Exchange
+ECD.WA^B16 | Ecard SA | Warsaw Stock Exchange
+ECH.WA | Echo Investment SA | Warsaw Stock Exchange
+ECILC.IS | EIS Eczacibasi Ilac Sinai ve Finansal Yatirimlar Sanayi ve Ticaret AS | Istanbul Stock Exchange
+ECZYT.IS | Eczacibasi Yatirim Holding Ortakligi AS | Istanbul Stock Exchange
+EDIP.WA | ED Invest SA | Warsaw Stock Exchange
+EEX.WA | Eko Export SA | Warsaw Stock Exchange
+EFH.WA^F16 | Europejski Fundusz Hipoteczny SA | Warsaw Stock Exchange
+EFK.WA | Korporacja Gospodarcza Efekt SA | Warsaw Stock Exchange
+EFOR.IS | Efor Yatirim Sanayi Ticaret AS | Istanbul Stock Exchange
+EGEEN.IS | Ege Endustri ve Ticaret AS | Istanbul Stock Exchange
+EGGUB.IS | Ege Gubre Sanayii AS | Istanbul Stock Exchange
+EGIS.BU^L13 | Egis Gyogyszergyar Zrt | Budapest Stock Exchange
+EGSER.IS | Ege Seramik Sanayi ve Ticaret AS | Istanbul Stock Exchange
+EGSP.WA^G20 | Ergis SA | Warsaw Stock Exchange
+EHG.WA | EuroHold Bulgaria AD | Warsaw Stock Exchange
+EKA.WA^C16 | e-Kancelaria Grupa Prawno Finansowa SA w upadlosci likwidacyjnej | Warsaw Stock Exchange
+EKGYO.IS | Emlak Konut Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+EKOP.WA^D13 | Eko Holding SA w likwidacji | Warsaw Stock Exchange
+EKP.WA | Elkop Estonia SE | Warsaw Stock Exchange
+ELB.WA^D21 | Elektrobudowa SA w upadlosci | Warsaw Stock Exchange
+ELMA.BX | Electromagnetica SA | The Bucharest Stock Exchange
+ELMU.BU^C20 | Budapesti Elektromos Muvek Zrt | Budapest Stock Exchange
+ELSA.WA^D12 | ADM Czernin SA | Warsaw Stock Exchange
+ELT.WA | Elektrotim SA | Warsaw Stock Exchange
+ELZ.WA^A24 | Zaklady Urzadzen Komputerowych Elzab SA | Warsaw Stock Exchange
+EMAS.BU^C20 | Eszak-Magyarorszagi Aramszolgaltato Zrt | Budapest Stock Exchange
+EMCM.WA^H25 | EMC Instytut Medyczny SA | Warsaw Stock Exchange
+EMFP.WA^J16 | Empik Media & Fashion SA | Warsaw Stock Exchange
+EMK.WA^G13 | Euromark Polska SA w likwidacji | Warsaw Stock Exchange
+EMP.WA^H18 | Emperia Holding Sp z o o | Warsaw Stock Exchange
+EMTP.WA^B21 | Elemental Global Services SA | Warsaw Stock Exchange
+ENAE.WA | Enea SA | Warsaw Stock Exchange
+ENE.WA | Centrum Medyczne Enel Med SA | Warsaw Stock Exchange
+ENEFI.BU | ENEFI Vagyonkezelo Nyrt | Budapest Stock Exchange
+ENERY.IS | Enerya Enerji AS | Istanbul Stock Exchange
+ENGP.WA | Energa S A | Warsaw Stock Exchange
+ENIP.WA | Energoinstal SA | Warsaw Stock Exchange
+ENJSA.IS | Enerjisa Enerji AS | Istanbul Stock Exchange
+ENKAI.IS | ENKA Insaat ve Sanayi AS | Istanbul Stock Exchange
+ENPO.WA^B11 | ENERGOMONTAZ - POLNOC SA | Warsaw Stock Exchange
+ENPP.WA | Energoaparatura SA | Warsaw Stock Exchange
+ENTP.WA | Enter Air SA | Warsaw Stock Exchange
+EPDP.WA^E14 | Energomontaz-Poludnie SA w upadlosci likwidacyjnej | Warsaw Stock Exchange
+EQU.WA | Equnico Se | Warsaw Stock Exchange
+ERB.WA | Erbud SA | Warsaw Stock Exchange
+ERBOS.IS | Erbosan Erciyas Boru Sanayii ve Ticaret AS | Istanbul Stock Exchange
+EREGL.IS | Eregli Demir ve Celik Fabrikalari TAS | Istanbul Stock Exchange
+ERGA.WA | ERG SA | Warsaw Stock Exchange
+ERPP.WA^J12 | Towarzystwo Ubezpieczen Europa SA | Warsaw Stock Exchange
+ERST.PR | Erste Group Bank AG | Prague Stock Exchange
+ESEN.IS | Esenboga Elektrik Uretim AS | Istanbul Stock Exchange
+ESSP.WA^D20 | Glamox Sp z o o | Warsaw Stock Exchange
+ESTP.WA | ENEFI Vagyonkezelo Nyrt | Warsaw Stock Exchange
+EUC.WA | Europejskie Centrum Odszkodowan SA | Warsaw Stock Exchange
+EUI.WA^D15 | Euroimplant SA w upadlosci likwidacyjnej | Warsaw Stock Exchange
+EUPWR.IS | Europower Enerji ve Otomasyon Teknolojileri Sanayi Ticaret AS | Istanbul Stock Exchange
+EUR.WA | Eurocash SA | Warsaw Stock Exchange
+EUREN.IS | Europen Endustri Insaat Sanayi ve Ticaret AS | Istanbul Stock Exchange
+EURTL.WA | Eurotel SA | Warsaw Stock Exchange
+EXLE.WA^A18 | Exillon Energy Ltd | Warsaw Stock Exchange
+FAB1.WA | Fabrity SA | Warsaw Stock Exchange
+FAM.WA^B18 | Fam SA | Warsaw Stock Exchange
+FCLP.WA^F17 | Farmacol SA | Warsaw Stock Exchange
+FEEP.WA | Feerum SA | Warsaw Stock Exchange
+FEG.WA^F18 | Fortuna Entertainment Group NV | Warsaw Stock Exchange
+FENER.IS | Fenerbahce Futbol AS | Istanbul Stock Exchange
+FERR.WA^A25 | Ferrum SA | Warsaw Stock Exchange
+FFIP.WA | Fast Finance SA | Warsaw Stock Exchange
+FGTP.WA^E21 | Fenghua SoleTech AG | Warsaw Stock Exchange
+FHBP.WA | Foodhub SA | Warsaw Stock Exchange
+FLAP.IS | Flap Kongre Toplanti Hizmetleri Otomotiv ve Turizm AS | Istanbul Stock Exchange
+FMGP.WA | Wise Energy SA | Warsaw Stock Exchange
+FONP.WA | Fon SE | Warsaw Stock Exchange
+FORE.PR^F18 | Fortuna Entertainment Group NV | Prague Stock Exchange
+FORTS.IS^B11 | Fortis Bank AS | Istanbul Stock Exchange
+FOT.WA^A18 | Fota SA w upadlosci likwidacyjnej | Warsaw Stock Exchange
+FOTH.BU^C12 | Fotex Holding SE | Budapest Stock Exchange
+FP.BX | Fondul Proprietatea SA | The Bucharest Stock Exchange
+FROP.WA | Ferro SA | Warsaw Stock Exchange
+FROTO.IS | Ford Otomotiv Sanayi AS | Istanbul Stock Exchange
+FSG.WA | Fabryki Sprzetu i Narzedzi Gorniczych Grupa Kapitalowa Fasing SA | Warsaw Stock Exchange
+FTEP.WA | Grupa Forte SA | Warsaw Stock Exchange
+GARAN.IS | Turkiye Garanti Bankasi AS | Istanbul Stock Exchange
+GCHP.WA^I15 | Global City Holdings BV | Warsaw Stock Exchange
+GDRB.BU | Richter Gedeon Vegyeszeti Gyar Nyrt | Budapest Stock Exchange
+GENIL.IS | Gen Ilac ve Saglik Urunleri Sanayi ve Ticaret AS | Istanbul Stock Exchange
+GENTS.IS | Gentas Dekoratif Yuzeyler Sanayi ve Ticaret AS | Istanbul Stock Exchange
+GEREL.IS | Gersan Elektrik Ticaret ve Sanayi AS | Istanbul Stock Exchange
+GESAN.IS | Girisim Elektrik Sanayi Taahhut ve Ticaret AS | Istanbul Stock Exchange
+GEV.PR | Gevorkyan as | Prague Stock Exchange
+GIFP.WA | Gaming Factory SA | Warsaw Stock Exchange
+GIGP.WA^K25 | Gi Group Poland SA | Warsaw Stock Exchange
+GIW.WA^F16 | Gremi Inwestycje SA | Warsaw Stock Exchange
+GKI.WA | Grupa Kapitalowa Immobile SA | Warsaw Stock Exchange
+GKPP.WA^D18 | Gekoplast SA | Warsaw Stock Exchange
+GLRMK.IS | Gulermak Agir Sanayi Insaat ve Taahhut AS | Istanbul Stock Exchange
+GLYHO.IS | Global Yatirim Holding AS | Istanbul Stock Exchange
+GMTP.WA | Genomtec SA | Warsaw Stock Exchange
+GNB.WA^J22 | Getin Noble Bank SA w upadlosci | Warsaw Stock Exchange
+GNT.WA^E15 | Gant Development SA | Warsaw Stock Exchange
+GOBP.WA | Gobarto SA | Warsaw Stock Exchange
+GOLDS.IS^D13 | Goldas Kuyumculuk Sanayi Ithalat Ihracat AS | Istanbul Stock Exchange
+GOLTS.IS | Goltas Goller Bolgesi Cimento Sanayi ve Ticaret AS | Istanbul Stock Exchange
+GOODY.IS | Goodyear Lastikleri TAS | Istanbul Stock Exchange
+GOP.WA | Games Operators SA | Warsaw Stock Exchange
+GOZDE.IS | Gozde Girisim Sermayesi Yatirim Ortakligi AS | Istanbul Stock Exchange
+GPPP.WA | Grupa Pracuj SA | Warsaw Stock Exchange
+GPRP.WA^I19 | Globalworth Poland Real Estate NV | Warsaw Stock Exchange
+GPW.WA | Gielda Papierow Wartosciowych w Warszawie SA | Warsaw Stock Exchange
+GRANIT.BU | Granit Bank Nyrt | Budapest Stock Exchange
+GREC.WA^J14 | Greeneco SA w likwidacji | Warsaw Stock Exchange
+GRIP.WA^I19 | Gino Rossi SA w likwidacji | Warsaw Stock Exchange
+GRLP.WA^C17 | Graal SA | Warsaw Stock Exchange
+GRNP.WA | Grodno SA | Warsaw Stock Exchange
+GRSEL.IS | Gur-Sel Turizm Tasimacilik ve Servis Ticaret AS | Istanbul Stock Exchange
+GRTHO.IS | Grainturk Holding AS | Istanbul Stock Exchange
+GRVP.WA^A19 | Gorenje doo | Warsaw Stock Exchange
+GRXP.WA | GreenX Metals Ltd | Warsaw Stock Exchange
+GSDHO.IS | GSD Holding AS | Istanbul Stock Exchange
+GSPA.BU | Graphisoft Park SE Ingatlanfejleszto Europai Rt | Budapest Stock Exchange
+GSRAY.IS | Galatasaray Sportif Sinai ve Ticari Yatirimlar AS | Istanbul Stock Exchange
+GTCP.WA | Globe Trade Centre SA | Warsaw Stock Exchange
+GTN.WA | Getin Holding SA | Warsaw Stock Exchange
+GUBRF.IS | Gubre Fabrikalari TAS | Istanbul Stock Exchange
+GVTP.WA | Grupa Virtus SA | Warsaw Stock Exchange
+GWIND.IS | Galata Wind Enerji Anonim Sirket | Istanbul Stock Exchange
+HALKB.IS | Turkiye Halk Bankasi AS | Istanbul Stock Exchange
+HBPP.WA^H13 | Hydrobudowa Polska SA w upadlosci likwidacyjnej | Warsaw Stock Exchange
+HDFGS.IS | Hedef Girisim Sermayesi Yatirim Ortakligi AS | Istanbul Stock Exchange
+HDR.WA | Przedsiebiorstwo Hydrauliki Silowej Hydrotor SA | Warsaw Stock Exchange
+HEKTS.IS | Hektas Ticaret TAS | Istanbul Stock Exchange
+HEL.WA | Helio SA | Warsaw Stock Exchange
+HLD.WA^D25 | Hollywood SA | Warsaw Stock Exchange
+HLGYO.IS | Halk Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+HMIP.WA^D25 | HM Inwest SA | Warsaw Stock Exchange
+HRPP.WA | Harper Hygienics SA | Warsaw Stock Exchange
+HRSP.WA | Herkules SA w restrukturyzacji | Warsaw Stock Exchange
+HTM.WA^D17 | Hutmen SA | Warsaw Stock Exchange
+HUGP.WA | Huuuge Inc | Warsaw Stock Exchange
+HURGZ.IS | Hurriyet Gazetecilik ve Matbaacilik AS | Istanbul Stock Exchange
+HWE.WA^F18 | Hawe SA | Warsaw Stock Exchange
+HYP.WA^C19 | Hyperion SA | Warsaw Stock Exchange
+IBSP.WA | Wise Finance SA | Warsaw Stock Exchange
+ICBCT.IS | ICBC Turkey Bank AS | Istanbul Stock Exchange
+ICEP.WA | Medinice SA | Warsaw Stock Exchange
+ICUGS.IS | Icu Girisim Sermayesi Yatirim Ortakligi AS | Istanbul Stock Exchange
+IDE.WA^A21 | Idea Bank SA w upadlosci | Warsaw Stock Exchange
+IDEP.WA^K19 | Ideon SA | Warsaw Stock Exchange
+IDGP.WA | Indygotech Minerals SA w likwidacji | Warsaw Stock Exchange
+IDM.WA | IDM SA | Warsaw Stock Exchange
+IDTA.WA^C19 | Indata SA | Warsaw Stock Exchange
+IEYHO.IS | Isiklar Enerji ve Yapi Holding AS | Istanbul Stock Exchange
+IFCP.WA | Investment Friends Capital SE | Warsaw Stock Exchange
+IFI.WA | IFirma SA | Warsaw Stock Exchange
+IFRP.WA | Investment Friends SE | Warsaw Stock Exchange
+IGNY.BU | 4iG Nyrt | Budapest Stock Exchange
+IHEVA.IS | Ihlas Ev Aletleri Imalat Sanayi ve Ticaret AS | Istanbul Stock Exchange
+IHGZT.IS | Ihlas Gazetecilik AS | Istanbul Stock Exchange
+IHLAS.IS | Ihlas Holding AS | Istanbul Stock Exchange
+IHLGM.IS | Ihlas Gayrimenkul Proje Gelistirme ve Ticaret AS | Istanbul Stock Exchange
+IHYAY.IS | Ihlas Yayin Holding AS | Istanbul Stock Exchange
+IMASM.IS | Imas Makina Sanayi AS | Istanbul Stock Exchange
+IMC.WA | IMC SA | Warsaw Stock Exchange
+IMEA.WA^E10 | Immoeast AG | Warsaw Stock Exchange
+IMPP.WA | Imperio Alternatywna Spolka Inwestycyjna SA | Warsaw Stock Exchange
+IMS.WA | IMS SA | Warsaw Stock Exchange
+IMXP.WA^D16 | Infovide Matrix SA | Warsaw Stock Exchange
+INCP.WA | INC SA | Warsaw Stock Exchange
+INDES.IS | Indeks Bilgisayar Sistemleri Muhendislik Sanayi ve Ticaret AS | Istanbul Stock Exchange
+INDP.WA^F20 | Indykpol SA | Warsaw Stock Exchange
+INFP.WA^I22 | Interferie SA | Warsaw Stock Exchange
+INGP.WA | ING Bank Slaski SA | Warsaw Stock Exchange
+INK.WA | Instal Krakow SA | Warsaw Stock Exchange
+INLP.WA | Introl SA | Warsaw Stock Exchange
+INP.WA | Inpro SA | Warsaw Stock Exchange
+INVES.IS | Investco Holding AS | Istanbul Stock Exchange
+IPE.WA | Ipopema Securities SA | Warsaw Stock Exchange
+IPF.WA^B22 | International Personal Finance PLC | Warsaw Stock Exchange
+IPLP.WA^E21 | Impel SA | Warsaw Stock Exchange
+IPOP.WA | Intersport Polska SA | Warsaw Stock Exchange
+IPT.WA^I17 | Inpost SA | Warsaw Stock Exchange
+IPXP.WA^K19 | Granges Konin SA | Warsaw Stock Exchange
+IRLP.WA | Inter RAO Lietuva AB | Warsaw Stock Exchange
+ISCTR.IS | Turkiye Is Bankasi AS | Istanbul Stock Exchange
+ISDMR.IS | Iskenderun Demir ve Celik AS | Istanbul Stock Exchange
+ISFIN.IS | Is Finansal Kiralama AS | Istanbul Stock Exchange
+ISGYO.IS | Is Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+ISMEN.IS | Is Yatirim Menkul Degerler AS | Istanbul Stock Exchange
+ISYHO.IS^J14 | Isiklar Yatirim Holding AS | Istanbul Stock Exchange
+ITB.WA | Interbud Lublin SA | Warsaw Stock Exchange
+ITGP.WA^I17 | Integer.pl SA | Warsaw Stock Exchange
+ITMP.WA^K22 | Interma Trade SA w likwidacji | Warsaw Stock Exchange
+IZB.WA | Izoblok SA | Warsaw Stock Exchange
+IZENR.IS | Izdemir Enerji Elektrik Uretim AS | Istanbul Stock Exchange
+IZMDC.IS | Izmir Demir Celik Sanayi AS | Istanbul Stock Exchange
+IZO.WA | Izolacja Jarocin SA | Warsaw Stock Exchange
+IZS.WA | Izostal SA | Warsaw Stock Exchange
+JAGP.WA^J12 | Firma Handlowa Jago SA w upadlosci likwidacyjnej | Warsaw Stock Exchange
+JANTS.IS | Jantsa Jant Sanayi ve Ticaret AS | Istanbul Stock Exchange
+JHM.WA^G20 | JHM Development SA | Warsaw Stock Exchange
+JPRP.WA^D15 | Jupiter SA | Warsaw Stock Exchange
+JRH.WA | JRH ASI SA | Warsaw Stock Exchange
+JSW.WA | Jastrzebska Spolka Weglowa SA | Warsaw Stock Exchange
+JWC.WA^J21 | JW Construction Holding SA | Warsaw Stock Exchange
+KABL.WA^L10 | NKT SA | Warsaw Stock Exchange
+KANP.WA^D21 | Zaklady Miesne Henryk Kania SA w upadlosci | Warsaw Stock Exchange
+KAREL.IS | Karel Elektronik Sanayi ve Ticaret AS | Istanbul Stock Exchange
+KARSN.IS | Karsan Otomotiv Sanayii ve Ticaret AS | Istanbul Stock Exchange
+KARTN.IS | Kartonsan Karton Sanayi ve Ticaret AS | Istanbul Stock Exchange
+KAYSE.IS | Kayseri Seker Fabrikasi AS | Istanbul Stock Exchange
+KBD.WA^G22 | Korporacja Budowlana Dom SA w likwidacji | Warsaw Stock Exchange
+KBM.WA^A14 | OTP banka dd | Warsaw Stock Exchange
+KCAER.IS | Kocaer Celik Sanayi ve Ticaret AS | Istanbul Stock Exchange
+KCH.WA | Krakchemia SA | Warsaw Stock Exchange
+KCHOL.IS | Koc Holding AS | Istanbul Stock Exchange
+KCI.WA | KCI SA | Warsaw Stock Exchange
+KDM.WA | KDM Shipping Public Ltd | Warsaw Stock Exchange
+KER.WA | Kernel Holding SA | Warsaw Stock Exchange
+KFL.WA^C16 | Kofola SA | Warsaw Stock Exchange
+KGH.WA | KGHM Polska Miedz SA | Warsaw Stock Exchange
+KGLP.WA | Kgl SA | Warsaw Stock Exchange
+KGN.WA | Zespol Elektrocieplowni Wroclawskich Kogeneracja SA | Warsaw Stock Exchange
+KILER.IS^A16 | Kiler Alisveris Hizmetleri Gida Sanayi ve Ticaret AS | Istanbul Stock Exchange
+KIPA.IS^I18 | Kipa Ticaret AS | Istanbul Stock Exchange
+KLGYO.IS | Kiler Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+KLMSN.IS | Klimasan Klima Sanayi ve Ticaret AS | Istanbul Stock Exchange
+KLRHO.IS | Kiler Holding AS | Istanbul Stock Exchange
+KLSER.IS | Kaleseramik Canakkale Kalebodur Seramik Sanayi AS | Istanbul Stock Exchange
+KMP.WA | Przedsiebiorstwo Produkcyjno Handlowe Kompap SA | Warsaw Stock Exchange
+KMPUR.IS | Kimteks Poliuretan Sanayi ve Ticaret AS | Istanbul Stock Exchange
+KOFOL.PR | Kofola CeskoSlovensko as | Prague Stock Exchange
+KOFP.WA^F17 | Kofola CeskoSlovensko as | Warsaw Stock Exchange
+KOMP.WA | Komputronik SA | Warsaw Stock Exchange
+KONTR.IS | Kontrolmatik Teknoloji Enerji ve Muhendislik AS | Istanbul Stock Exchange
+KONU.BU^G19 | Konzum Befektetesi es Vagyonkezelo Nyrt | Budapest Stock Exchange
+KONYA.IS | Konya Cimento Sanayii AS | Istanbul Stock Exchange
+KORDS.IS | Kordsa Teknik Tekstil AS | Istanbul Stock Exchange
+KPD.WA | Koszalinskie Przedsiebiorstwo Przemyslu Drzewnego SA | Warsaw Stock Exchange
+KPL.WA | Kino Polska TV SA | Warsaw Stock Exchange
+KRB.WA^A13 | Kredyt Bank SA | Warsaw Stock Exchange
+KRCP.WA^L22 | Sibelco Green Solutions Poland SA | Warsaw Stock Exchange
+KRDMD.IS | Kardemir Karabuk Demir Celik Sanayi ve Ticaret AS | Istanbul Stock Exchange
+KRIP.WA^G25 | Kredyt Inkaso SA | Warsaw Stock Exchange
+KRK.WA | Krka dd Novo Mesto | Warsaw Stock Exchange
+KRONT.IS | Kron Teknoloji AS | Istanbul Stock Exchange
+KRSP.WA^D18 | Kerdos Group SA w restrukturyzacji | Warsaw Stock Exchange
+KRU.WA | Kruk SA | Warsaw Stock Exchange
+KRVGD.IS | Kervan Gida Sanayi ve Ticaret AS | Istanbul Stock Exchange
+KSG.WA | KSG Agro SA | Warsaw Stock Exchange
+KST.WA^F20 | Konsorcjum Stali SA | Warsaw Stock Exchange
+KSWP.WA^F21 | Zaklady Tluszczowe Kruszwica SA | Warsaw Stock Exchange
+KTLEV.IS | Katilimevim Tasarruf Finansman AS | Istanbul Stock Exchange
+KTY.WA | Grupa Kety SA | Warsaw Stock Exchange
+KUYAS.IS | Kuyas Yatirim AS | Istanbul Stock Exchange
+KVT.WA | Krynica Vitamin SA | Warsaw Stock Exchange
+KZBGY.IS | Kizilbuk Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+KZS.WA^L20 | Krezus SA | Warsaw Stock Exchange
+LBTA.WA | Libet SA | Warsaw Stock Exchange
+LBW.WA | Lubawa SA | Warsaw Stock Exchange
+LENP.WA | Lena Lighting SA | Warsaw Stock Exchange
+LES.WA | Less SA | Warsaw Stock Exchange
+LIDER.IS | LDR Turizm AS | Istanbul Stock Exchange
+LKD.WA | Lokum Deweloper SA | Warsaw Stock Exchange
+LMKDC.IS | Limak Dogu Anadolu Cimento Sanayi ve Ticaret AS | Istanbul Stock Exchange
+LOGO.IS | Logo Yazilim Sanayi ve Ticaret AS | Istanbul Stock Exchange
+LPPP.WA | LPP SA | Warsaw Stock Exchange
+LRK.WA^H25 | Lark.pl SA | Warsaw Stock Exchange
+LRQ.WA | Larq SA | Warsaw Stock Exchange
+LRSHO.IS | Loras Holding AS | Istanbul Stock Exchange
+LSIS.WA | LSI Software SA | Warsaw Stock Exchange
+LTSP.WA^H22 | Grupa Lotos SA | Warsaw Stock Exchange
+LTX.WA | Lentex SA | Warsaw Stock Exchange
+LWBP.WA | Lubelski Wegiel Bogdanka SA | Warsaw Stock Exchange
+MABP.WA | Mabion SA | Warsaw Stock Exchange
+MAG.WA^L16 | BFF Polska SA | Warsaw Stock Exchange
+MAGEN.IS | Margun Enerji Uretim Sanayi ve Ticaret AS | Istanbul Stock Exchange
+MAKP.WA | Makarony Polskie SA | Warsaw Stock Exchange
+MAN1.WA | Manydev Studio SE | Warsaw Stock Exchange
+MARTI.IS | Marti Otel Isletmeleri AS | Istanbul Stock Exchange
+MAST.BU | Masterplast Nyrt | Budapest Stock Exchange
+MAVI.IS | Mavi Giyim Sanayi ve Ticaret AS | Istanbul Stock Exchange
+MBHJB.BU | MBH Jelzalogbank Nyrt | Budapest Stock Exchange
+MBK.WA | mBank SA | Warsaw Stock Exchange
+MBR.WA | Mo-Bruk SA | Warsaw Stock Exchange
+MBW.WA | Marie Brizard Wine and Spirits SA | Warsaw Stock Exchange
+MCI.WA | MCI Capital Alternatywna Spolka Inwestycyjna SA | Warsaw Stock Exchange
+MCLP.WA^J17 | Macrologic SA | Warsaw Stock Exchange
+MCPP.WA^C22 | Mediacap Sp z o o | Warsaw Stock Exchange
+MCRP.WA | mcr SA | Warsaw Stock Exchange
+MDG.WA | Medicalgorithmics SA | Warsaw Stock Exchange
+MDIP.WA | MDI Energia SA | Warsaw Stock Exchange
+MDSP.WA^H16 | Midas SA | Warsaw Stock Exchange
+MDVP.WA | Modivo SA | Warsaw Stock Exchange
+METRO.IS | Metro Ticari ve Mali Yatirimlar Holding AS | Istanbul Stock Exchange
+MEXP.WA | Mex Polska SA | Warsaw Stock Exchange
+MFO.WA | MFO SA | Warsaw Stock Exchange
+MGROS.IS | Migros Ticaret AS | Istanbul Stock Exchange
+MGTP.WA | Mangata Holding SA | Warsaw Stock Exchange
+MIATK.IS | Mia Teknoloji AS | Istanbul Stock Exchange
+MILP.WA | Bank Millennium SA | Warsaw Stock Exchange
+MIP.WA^B14 | Partner in Pet Food Poland SA | Warsaw Stock Exchange
+MIR.WA | Miraculum SA | Warsaw Stock Exchange
+MLGP.WA | Mlp Group SA | Warsaw Stock Exchange
+MLK.WA | Mlk Foods Public Company Ltd | Warsaw Stock Exchange
+MLSP.WA | ML System SA | Warsaw Stock Exchange
+MMPA.WA^K11 | Multimedia Polska Sp z o o | Warsaw Stock Exchange
+MNCP.WA | Mennica Polska SA | Warsaw Stock Exchange
+MNDRS.IS | Menderes Tekstil Sanayi ve Ticaret AS | Istanbul Stock Exchange
+MNDTR.IS | Mondi Turkey Oluklu Mukavva Kagit ve Ambalaj Sanayi AS | Istanbul Stock Exchange
+MNI.WA^J18 | Mni SA | Warsaw Stock Exchange
+MOCP.WA | Molecure SA | Warsaw Stock Exchange
+MOJ.WA | Moj SA | Warsaw Stock Exchange
+MOLB.BU | MOL Magyar Olaj es Gazipari Nyrt | Budapest Stock Exchange
+MOLP.WA | MOL Magyar Olaj es Gazipari Nyrt | Warsaw Stock Exchange
+MONET.PR | Moneta Money Bank as | Prague Stock Exchange
+MONP.WA | Monnari Trade SA | Warsaw Stock Exchange
+MOVP.WA | Movie Games SA | Warsaw Stock Exchange
+MPARK.IS | MLP Saglik Hizmetleri AS | Istanbul Stock Exchange
+MPH.WA^I22 | Master Pharm SA | Warsaw Stock Exchange
+MRB.WA | Mirbud SA | Warsaw Stock Exchange
+MRCP.WA | Mercator Medical SA | Warsaw Stock Exchange
+MRSHL.IS | Marshall Boya ve Vernik Sanayi AS | Istanbul Stock Exchange
+MSO.WA^A15 | Mieszko SA | Warsaw Stock Exchange
+MSP.WA | Mostostal Plock SA | Warsaw Stock Exchange
+MSWP.WA | Mostostal Warszawa SA | Warsaw Stock Exchange
+MSX.WA^D16 | MSX Resources SA | Warsaw Stock Exchange
+MSZ.WA | Mostostal Zabrze SA | Warsaw Stock Exchange
+MTEL.BU | Magyar Telekom Telecommunications Public Ltd Co | Budapest Stock Exchange
+MTLP.WA^K20 | Mediatel SA | Warsaw Stock Exchange
+MURP.WA | Murapol SA | Warsaw Stock Exchange
+MUTLU.IS^C15 | Mutlu Aku ve Malzemeleri Sanayii AS | Istanbul Stock Exchange
+MVPP.WA | Marvipol Development SA | Warsaw Stock Exchange
+MWTP.WA | MW Trade SA | Warsaw Stock Exchange
+MXC1.WA | MaxCom SA | Warsaw Stock Exchange
+MZA.WA | Muza SA | Warsaw Stock Exchange
+MZN.WA^I20 | MZN Property SA | Warsaw Stock Exchange
+NAFW.WA^B11 | Naftobudowa SA | Warsaw Stock Exchange
+NBLA.WA^F12 | Getin Noble Bank SA | Warsaw Stock Exchange
+NCLP.WA | Noctiluca SA | Warsaw Stock Exchange
+NCT.WA^L20 | North Coast SA | Warsaw Stock Exchange
+NEMA.WA^F19 | Netmedia SA | Warsaw Stock Exchange
+NEPE.WA^L10 | Nepentes SA | Warsaw Stock Exchange
+NET.WA^L21 | Netia Sa | Warsaw Stock Exchange
+NETAS.IS | Netas Telekomunikasyon AS | Istanbul Stock Exchange
+NEUP.WA | Neuca SA | Warsaw Stock Exchange
+NNG.WA | Nanogroup SA | Warsaw Stock Exchange
+NOVI.WA^L11 | Novitus SA | Warsaw Stock Exchange
+NTCP.WA | New Tech Capital SA | Warsaw Stock Exchange
+NTHOL.IS | Net Holding AS | Istanbul Stock Exchange
+NTT.WA | NTT System SA | Warsaw Stock Exchange
+NTTUR.IS^J17 | Net Turizm Ticaret ve Sanayi AS | Istanbul Stock Exchange
+NTUP.WA | Novaturas AB | Warsaw Stock Exchange
+NUGYO.IS | Nurol Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+NUHCM.IS | Nuh Cimento Sanayi AS | Istanbul Stock Exchange
+NVAP.WA | PA Nova SA | Warsaw Stock Exchange
+NVGP.WA | Novavis Group SA | Warsaw Stock Exchange
+NVT.WA | Novita SA | Warsaw Stock Exchange
+NWGP.WA | Newag SA | Warsaw Stock Exchange
+NWNP.WA^J12 | New World Resources PLC | Warsaw Stock Exchange
+NWR.WA^L19 | New World Resources PLC | Warsaw Stock Exchange
+NWRR.PR^L19 | New World Resources PLC | Prague Stock Exchange
+NWRS.PR^F11 | New World Resources PLC | Prague Stock Exchange
+NXGP.WA | Nexity Global SA | Warsaw Stock Exchange
+O2O.WA^G15 | One-2-One SA | Warsaw Stock Exchange
+OBAMS.IS | Oba Makarnacilik Sanayi ve Ticaret AS | Istanbul Stock Exchange
+OBL.WA | Orzel Bialy SA | Warsaw Stock Exchange
+ODAS.IS | Odas Elektrik Uretim Sanayi Ticaret AS | Istanbul Stock Exchange
+ODL.WA | Odlewnie Polskie SA | Warsaw Stock Exchange
+OEG.WA^I17 | Olympic Entertainment Group AS | Warsaw Stock Exchange
+OEXP.WA^K24 | OEX SA | Warsaw Stock Exchange
+OILP.WA^L18 | Petrolinvest SA | Warsaw Stock Exchange
+OMLP.WA | One More Level SA | Warsaw Stock Exchange
+ONDP.WA | Onde SA | Warsaw Stock Exchange
+ONO.WA | Onesano SA | Warsaw Stock Exchange
+OPF.WA^B23 | Open Finance SA w upadlosci | Warsaw Stock Exchange
+OPGP.WA | Cpi Fim SA | Warsaw Stock Exchange
+OPL.WA | Orange Polska SA | Warsaw Stock Exchange
+OPMP.WA | OPTeam SA | Warsaw Stock Exchange
+OPN.WA | Oponeo.pl SA | Warsaw Stock Exchange
+OPTP.WA^F10 | Canon Ophthalmic Technologies Sp z o o | Warsaw Stock Exchange
+OPUSG.BU | Opus Global Nyrt | Budapest Stock Exchange
+ORBP.WA^F20 | Essendi Poland SA | Warsaw Stock Exchange
+ORCO.BU^K11 | Cpi Fim SA | Budapest Stock Exchange
+ORCO.PR^J15 | Cpi Fim SA | Prague Stock Exchange
+ORNP.WA^F20 | Orion Investment SA | Warsaw Stock Exchange
+OTKAR.IS | Otokar Otomotiv ve Savunma Sanayi AS | Istanbul Stock Exchange
+OTMP.WA | Zaklady Przemyslu Cukierniczego Otmuchow SA | Warsaw Stock Exchange
+OTPB.BU | OTP Bank Nyrt | Budapest Stock Exchange
+OTSL.WA | OT Logistics SA | Warsaw Stock Exchange
+OVO.WA^C25 | Ovostar Union NV | Warsaw Stock Exchange
+OYAKC.IS | Oyak Cimento Fabrikalari AS | Istanbul Stock Exchange
+OZGYO.IS | Ozderici Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+OZKGY.IS | Ozak Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+PANP.BU | PannErgy Nyrt | Budapest Stock Exchange
+PAPIL.IS | Papilon Savunma Teknoloji ve Ticaret AS | Istanbul Stock Exchange
+PARSN.IS | Parsan Makina Parcalari Sanayii AS | Istanbul Stock Exchange
+PAS1.WA | Passus SA | Warsaw Stock Exchange
+PASEU.IS | Pasifik Eurasia Lojistik Dis Ticaret AS | Istanbul Stock Exchange
+PAT.WA | Patentus SA | Warsaw Stock Exchange
+PATEK.IS | Pasifik Teknoloji AS | Istanbul Stock Exchange
+PBF.WA | PBS Finanse SA | Warsaw Stock Exchange
+PBGG.WA | PBG SA w restrukturyzacji w likwidacji | Warsaw Stock Exchange
+PBK.BX | Patria Bank SA | The Bucharest Stock Exchange
+PBO.WA^K15 | PBO Aniola SA w upadlosci likwidacyjnej | Warsaw Stock Exchange
+PBX.WA | Poznanska Korporacja Budowlana Pekabex SA | Warsaw Stock Exchange
+PCE.WA | Grupa Azoty Zaklady Chemiczne Police SA | Warsaw Stock Exchange
+PCF1.WA | PCF Group SA | Warsaw Stock Exchange
+PCGP.WA^B24 | PC Guard SA | Warsaw Stock Exchange
+PCIP.WA^I18 | PCC Intermodal SA | Warsaw Stock Exchange
+PCMP.WA^J19 | Prime Car Management SA | Warsaw Stock Exchange
+PCOP.WA | Pepco Group NV | Warsaw Stock Exchange
+PCR.WA | PCC Rokita SA | Warsaw Stock Exchange
+PCXP.WA | PCC Exol SA | Warsaw Stock Exchange
+PEKA.WA^A17 | Pekaes SA | Warsaw Stock Exchange
+PEKGY.IS | Peker Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+PELIO.WA^I17 | Pelion SA | Warsaw Stock Exchange
+PEM.WA^F21 | Private Equity Managers SA | Warsaw Stock Exchange
+PENP.PR | Photon Energy NV | Prague Stock Exchange
+PENP.WA | Photon Energy NV | Warsaw Stock Exchange
+PENTA.IS | Penta Teknoloji Urunleri Dagitim Ticaret AS | Istanbul Stock Exchange
+PEO.WA | Bank Polska Kasa Opieki SA | Warsaw Stock Exchange
+PEPP.WA | Polenergia SA | Warsaw Stock Exchange
+PETKM.IS | Petkim Petrokimya Holding AS | Istanbul Stock Exchange
+PETUN.IS | Pinar Entegre Et ve Un Sanayii AS | Istanbul Stock Exchange
+PEX.WA^E21 | Peixin International Group NV | Warsaw Stock Exchange
+PFLP.WA^K19 | Pfleiderer Group BV & Co KG | Warsaw Stock Exchange
+PGDP.WA^A18 | Paged SA | Warsaw Stock Exchange
+PGE.WA | PGE Polska Grupa Energetyczna SA | Warsaw Stock Exchange
+PGMP.WA | PMPG Polskie Media SA | Warsaw Stock Exchange
+PGN.WA^K22 | Polskie Gornictwo Naftowe i Gazownictwo SA | Warsaw Stock Exchange
+PGO.WA^D21 | PGO SA | Warsaw Stock Exchange
+PGSN.PR^C21 | PFNonwovens as | Prague Stock Exchange
+PGSP.WA^I17 | PFNonwovens as | Warsaw Stock Exchange
+PGSUS.IS | Pegasus Hava Tasimaciligi AS | Istanbul Stock Exchange
+PGVP.WA | PGF Polska Grupa Fotowoltaiczna SA | Warsaw Stock Exchange
+PHN.WA | Polski Holding Nieruchomosci SA | Warsaw Stock Exchange
+PHR.WA | Pharmena SA | Warsaw Stock Exchange
+PINK.PR | Pilulka Lekarny as | Prague Stock Exchange
+PJP.WA | PJP Makrum SA | Warsaw Stock Exchange
+PKN.WA | Orlen SA | Warsaw Stock Exchange
+PKO.WA | Powszechna Kasa Oszczednosci Bank Polski SA | Warsaw Stock Exchange
+PKPP.WA | PKP Cargo SA w restrukturyzacji | Warsaw Stock Exchange
+PLAPP.WA^K17 | Zaklady Automatyki Polna SA | Warsaw Stock Exchange
+PLG.PR^G16 | Pivovary Lobkowicz Group as | Prague Stock Exchange
+PLJ.WA^H13 | Polskie Jadlo SA w upadlosci likwidacyjnej | Warsaw Stock Exchange
+PLTP.WA^G17 | Marazzi Poland Sp z o o | Warsaw Stock Exchange
+PLWP.WA | Playway SA | Warsaw Stock Exchange
+PLX.WA^D22 | Przetworstwo Tworzyw Sztucznych Plast Box SA | Warsaw Stock Exchange
+PLY.WA^D21 | Play Communications SA | Warsaw Stock Exchange
+PLZ.WA | Plaza Centers NV | Warsaw Stock Exchange
+PMA.WA | Prima Moda SA | Warsaw Stock Exchange
+PMDP.WA^L13 | Permedia Sp z o o | Warsaw Stock Exchange
+PMGP.WA^D19 | PME SA | Warsaw Stock Exchange
+PNDP.WA^I21 | WWA Development SA | Warsaw Stock Exchange
+PNSUT.IS | Pinar Sut Mamulleri Sanayii AS | Istanbul Stock Exchange
+POLA.WA^J11 | Polrest SA w likwidacji | Warsaw Stock Exchange
+POLHO.IS | Polisan Holding AS | Istanbul Stock Exchange
+POLM.WA^F16 | Polymetal SA | Warsaw Stock Exchange
+PPSP.WA | Przedsiebiorstwo Przemyslu Spozywczego PEPEES SA | Warsaw Stock Exchange
+PQA.WA^L13 | Polaqua Sp z o o | Warsaw Stock Exchange
+PRCP.WA^A19 | Prochnik SA w upadlosci | Warsaw Stock Exchange
+PRD.WA^G22 | Procad SA | Warsaw Stock Exchange
+PRF.WA^I21 | PragmaGO SA | Warsaw Stock Exchange
+PRIP.WA | NPL Nova SA | Warsaw Stock Exchange
+PRIUA.PR | Primoco UAV SE | Prague Stock Exchange
+PRKAB.IS | Turk Prysmian Kablo ve Sistemleri AS | Istanbul Stock Exchange
+PRKME.IS | Park Elektrik Uretim Madencilik Sanayi ve Ticaret AS | Istanbul Stock Exchange
+PRMP.WA | Prochem SA | Warsaw Stock Exchange
+PRTE.WA | Protektor SA | Warsaw Stock Exchange
+PSGYO.IS | Pasifik Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+PSW.WA^A22 | Xebia Sp z o o | Warsaw Stock Exchange
+PTGP.WA | Poltreg SA | Warsaw Stock Exchange
+PTHP.WA^C24 | Primetech SA | Warsaw Stock Exchange
+PTOFS.IS^E15 | Petrol Ofisi AS | Istanbul Stock Exchange
+PTW.WA | Polskie Towarzystwo Wspierania Przedsiebiorczosci SA | Warsaw Stock Exchange
+PUEP.WA^C23 | ZPUE SA | Warsaw Stock Exchange
+PUR1.WA | Pure Biologics SA | Warsaw Stock Exchange
+PWXP.WA | Polwax SA | Warsaw Stock Exchange
+PXMP.WA | Polimex Mostostal SA | Warsaw Stock Exchange
+PZU.WA | Powszechny Zaklad Ubezpieczen SA | Warsaw Stock Exchange
+QMK.WA^H19 | Qumak SA w upadlosci | Warsaw Stock Exchange
+QNAP.WA | QNA Technology SA | Warsaw Stock Exchange
+QNBFK.IS | Qnb Finansal Kiralama AS | Istanbul Stock Exchange
+QNBTR.IS | Qnb Bank AS | Istanbul Stock Exchange
+QNT.WA | Quantum Software SA | Warsaw Stock Exchange
+QRS.WA | Quercus Towarzystwo Funduszy Inwestycyjnych SA | Warsaw Stock Exchange
+QUAGR.IS | Qua Granite Hayal Yapi ve Urunleri Sanayi Ticaret AS | Istanbul Stock Exchange
+RABA.BU | Raba Jarmuipari Holding Nyrt | Budapest Stock Exchange
+RAFP.WA | Fabryka Obrabiarek Rafamet SA w restrukturyzacji | Warsaw Stock Exchange
+RALYH.IS | Ral Yatirim Holding AS | Istanbul Stock Exchange
+RBW.WA | Rainbow Tours SA | Warsaw Stock Exchange
+RDLP.WA^B22 | Rdl SA | Warsaw Stock Exchange
+RDNP.WA | Redan SA w likwidacji | Warsaw Stock Exchange
+REEDR.IS | Reeder Teknoloji Sanayi ve Ticaret AS | Istanbul Stock Exchange
+RFK.WA^G25 | Rafako SA w upadlosci | Warsaw Stock Exchange
+RGYAS.IS | Ronesans Gayrimenkul Yatirim AS | Istanbul Stock Exchange
+RHD.WA | Reinhold Europe AB | Warsaw Stock Exchange
+RLP.WA | Relpol SA | Warsaw Stock Exchange
+RMK.WA | Remak Energomontaz SA | Warsaw Stock Exchange
+RNCP.WA | Reino Capital SA | Warsaw Stock Exchange
+RNDP.WA | Render Cube SA | Warsaw Stock Exchange
+RNKP.WA | Rank Progress SA | Warsaw Stock Exchange
+ROAQ.BX | Aquila Part Prod Com SA | The Bucharest Stock Exchange
+ROAZO.BX^L12 | Azomures SA | The Bucharest Stock Exchange
+ROB.WA^F19 | Robyg SA | Warsaw Stock Exchange
+ROBIO.BX | Biofarm SA | The Bucharest Stock Exchange
+ROBRD.BX | BRD Groupe Societe Generale SA | The Bucharest Stock Exchange
+ROBRK.BX | SSIF BRK Financial Group SA | The Bucharest Stock Exchange
+ROBVB.BX | Bursa de Valori Bucuresti SA | The Bucharest Stock Exchange
+ROEL.BX | Societatea Energetica Electrica SA | The Bucharest Stock Exchange
+ROH2O.BX | Societatea de Producere a Energiei Electrice in Hidrocentrale Hidroelectrica SA | The Bucharest Stock Exchange
+ROM.BX | Med Life SA | The Bucharest Stock Exchange
+RONP.WA^D22 | Ronson Development SE | Warsaw Stock Exchange
+ROONE.BX | One United Properties SA | The Bucharest Stock Exchange
+ROPE.BX | Premier Energy PLC | The Bucharest Stock Exchange
+RORRC.BX | Rompetrol Rafinare SA | The Bucharest Stock Exchange
+ROSFG.BX | Sphera Franchise Group SA | The Bucharest Stock Exchange
+ROSNN.BX | Societatea Nationala Nuclearelectrica SA | The Bucharest Stock Exchange
+ROSNP.BX | OMV Petrom SA | The Bucharest Stock Exchange
+ROTEL.BX | Compania Nationala de Transport al Energiei Electrice Transelectrica SA | The Bucharest Stock Exchange
+ROTLV.BX | Banca Transilvania SA | The Bucharest Stock Exchange
+ROWINE.BX | Purcari Wineries PCL | The Bucharest Stock Exchange
+RPCP.WA | Zaklady Magnezytowe Ropczyce SA | Warsaw Stock Exchange
+RSE.WA^H16 | Cersanit SA | Warsaw Stock Exchange
+RTALB.IS | RTA Laboratuvarlari Biyolojik Urunler Ilac ve Makine Sanayi Ticaret AS | Istanbul Stock Exchange
+RUCH.WA^A11 | Uslugi Logistyczne SA w likwidacji | Warsaw Stock Exchange
+RVU.WA | Ryvu Therapeutics SA | Warsaw Stock Exchange
+RWD.WA^B20 | Redwood Holding SA w upadlosci | Warsaw Stock Exchange
+RWLP.WA | Rawlplug SA | Warsaw Stock Exchange
+RYGYO.IS | Reysas Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+RYSAS.IS | Reysas Tasimacilik ve Lojistik Ticaret AS | Istanbul Stock Exchange
+SABFG.PR | Sab Finance as | Prague Stock Exchange
+SAFGY.IS^A17 | Saf Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+SAHOL.IS | Haci Omer Sabanci Holding AS | Istanbul Stock Exchange
+SANR.WA | Banco Santander SA | Warsaw Stock Exchange
+SARKY.IS | Sarkuysan Elektrolitik Bakir Sanayi ve Ticaret AS | Istanbul Stock Exchange
+SASA.IS | SASA Polyester Sanayi AS | Istanbul Stock Exchange
+SAYAS.IS | Say Yenilenebilir Enerji Ekipmanlari Sanayi ve Ticaret AS | Istanbul Stock Exchange
+SCOA.WA^L20 | Sco Pak SA | Warsaw Stock Exchange
+SCPP.WA | Scope Fluidics SA | Warsaw Stock Exchange
+SEKO.WA | Seko SA | Warsaw Stock Exchange
+SELP.WA | Selena FM SA | Warsaw Stock Exchange
+SESA.WA^L24 | Sescom SA | Warsaw Stock Exchange
+SFG.WA | Silvano Fashion Group AS | Warsaw Stock Exchange
+SFSP.WA | Sfinks Polska SA | Warsaw Stock Exchange
+SGN.WA | Sygnity SA | Warsaw Stock Exchange
+SGRE.WA | Sadovaya Group SA | Warsaw Stock Exchange
+SHD.WA | Soho Development SA | Warsaw Stock Exchange
+SHG.WA | Starhedge SA | Warsaw Stock Exchange
+SHO1.WA | Shoper SA | Warsaw Stock Exchange
+SIM1.WA | Simfabric SA | Warsaw Stock Exchange
+SKA.WA | Fabryka Farb i Lakierow Sniezka SA | Warsaw Stock Exchange
+SKH1.WA | Skarbiec Holding SA | Warsaw Stock Exchange
+SKLP.WA | Skyline Investment SA | Warsaw Stock Exchange
+SLV1.WA | Selvita SA | Warsaw Stock Exchange
+SLZ.WA^K23 | Sleepz AG | Warsaw Stock Exchange
+SME.WA^C22 | Simple SA | Warsaw Stock Exchange
+SNG.BX | Societatea Nationala de Gaze Naturale Romgaz SA | The Bucharest Stock Exchange
+SNK.WA | Sanok Rubber Company SA | Warsaw Stock Exchange
+SNS.WA^D18 | Synthos SA | Warsaw Stock Exchange
+SNTP.WA | Synektik SA | Warsaw Stock Exchange
+SNW.WA | Sanwil Holding SA | Warsaw Stock Exchange
+SNXP.WA | Sunex SA | Warsaw Stock Exchange
+SOLP.WA^B24 | Solar Company SA | Warsaw Stock Exchange
+SONP.WA | Sonel SA | Warsaw Stock Exchange
+SP2P.WA^G19 | Santander Bank Polska SA | Warsaw Stock Exchange
+SPHP.WA | Sopharma AD | Warsaw Stock Exchange
+SPL1.WA | Santander Bank Polska SA | Warsaw Stock Exchange
+SPRP.WA | Spyrosoft SA | Warsaw Stock Exchange
+SPTT.PR^B22 | O2 Czech Republic as | Prague Stock Exchange
+STCK.PR^K21 | Stock Spirits Group Ltd | Prague Stock Exchange
+STFP.WA | Stalprofil SA | Warsaw Stock Exchange
+STH1.WA^B24 | STS Holding SA | Warsaw Stock Exchange
+STLP.WA^J20 | Stelmet SA | Warsaw Stock Exchange
+STP.WA | Stalprodukt SA | Warsaw Stock Exchange
+STSP.WA | Satis Group SA | Warsaw Stock Exchange
+STXPP.WA | Stalexport Autostrady SA | Warsaw Stock Exchange
+SUW.WA^I23 | Suwary Sp z o o | Warsaw Stock Exchange
+SVEP.WA | Synthaverse SA | Warsaw Stock Exchange
+SVRS.WA | Silvair Inc | Warsaw Stock Exchange
+SWG.WA | Seco/Warwick SA | Warsaw Stock Exchange
+SYNI.BU^A16 | Synergon Informatikai Rendszereket Tervezo es Kivitelezo Zrt va | Budapest Stock Exchange
+TABK.PR | Philip Morris CR as | Prague Stock Exchange
+TARP.WA | Tarczynski SA | Warsaw Stock Exchange
+TBLP.WA | T-Bull SA | Warsaw Stock Exchange
+TENP.WA | Ten Square Games SA | Warsaw Stock Exchange
+TERP.WA^C16 | Sigvaris SA | Warsaw Stock Exchange
+TETA.WA^H10 | Unit4 Teta SA | Warsaw Stock Exchange
+TFO.WA^B17 | TelForceOne SA | Warsaw Stock Exchange
+TGN.BX | Societatea Nationala de Transport Gaze Naturale Transgaz SA | The Bucharest Stock Exchange
+THGP.WA | Tenderhut SA | Warsaw Stock Exchange
+TIMP.WA^F24 | Tim SA | Warsaw Stock Exchange
+TLNX.WA^F21 | Talanx AG | Warsaw Stock Exchange
+TLX.WA | Talex SA | Warsaw Stock Exchange
+TMEX.WA^C11 | Techmex SA w upadlosci likwidacyjnej | Warsaw Stock Exchange
+TMR.WA | Tatry Mountain Resorts as | Warsaw Stock Exchange
+TOR.WA | Torpol SA | Warsaw Stock Exchange
+TOW.WA | Tower Investments SA | Warsaw Stock Exchange
+TOYA.WA | Toya SA | Warsaw Stock Exchange
+TPE.WA | Tauron Polska Energia SA | Warsaw Stock Exchange
+TPMP.WA^C17 | Topmedical SA | Warsaw Stock Exchange
+TRILC.IS | Turk Ilac ve Serum Sanayi AS | Istanbul Stock Exchange
+TRIP.WA | Triton Development SA | Warsaw Stock Exchange
+TRKCM.IS^J20 | Trakya Cam Sanayii AS | Istanbul Stock Exchange
+TRKP.WA | Trakcja SA | Warsaw Stock Exchange
+TRMET.IS | TR Anadolu Metal Madencilik Isletmeleri AS | Istanbul Stock Exchange
+TRNP.WA | Trans Polonia SA | Warsaw Stock Exchange
+TRP.BX | Teraplast SA | The Bucharest Stock Exchange
+TRRP.WA | Termo Rex SA | Warsaw Stock Exchange
+TSGP.WA | Tesgas SA | Warsaw Stock Exchange
+TSKB.IS | Industrial Development Bank of Turkey | Istanbul Stock Exchange
+TSPOR.IS | Trabzonspor Sportif Yatirim ve Futbol Isletmeciligi Ticaret AS | Istanbul Stock Exchange
+TTKOM.IS | Turk Telekomunikasyon AS | Istanbul Stock Exchange
+TTRAK.IS | Turk Traktor ve Ziraat Makineleri AS | Istanbul Stock Exchange
+TTS.BX | TTS Transport Trade Services SA | The Bucharest Stock Exchange
+TUKAS.IS | Tukas Gida Sanayi ve Ticaret AS | Istanbul Stock Exchange
+TUPRS.IS | Turkiye Petrol Rafinerileri AS | Istanbul Stock Exchange
+TUREX.IS | Tureks Turizm Tasimacilik AS | Istanbul Stock Exchange
+TURSG.IS | Turkiye Sigorta AS | Istanbul Stock Exchange
+TVKD.BU^C15 | MOL Petrolkemia Zrt | Budapest Stock Exchange
+TVL.WA^H16 | Travelplanet.pl SA | Warsaw Stock Exchange
+TVN.WA^J15 | TVN SA | Warsaw Stock Exchange
+TXM.WA^F23 | Txm SA | Warsaw Stock Exchange
+TXTP.WA | Text SA | Warsaw Stock Exchange
+UCGP.WA | UniCredit SpA | Warsaw Stock Exchange
+ULG.WA | Ultimate Games SA | Warsaw Stock Exchange
+ULKER.IS | Ulker Biskuvi Sanayi AS | Istanbul Stock Exchange
+ULM.WA | Ulma Construccion Polska SA | Warsaw Stock Exchange
+ULUUN.IS | Ulusoy Un Sanayi ve Ticaret AS | Istanbul Stock Exchange
+UNFP.WA | Unfold.vc Asi SA | Warsaw Stock Exchange
+UNIP.WA | Unibep SA | Warsaw Stock Exchange
+UNPE.PR^I18 | Orlen Unipetrol as | Prague Stock Exchange
+UNTP.WA | Unimot SA | Warsaw Stock Exchange
+UNW.WA^B18 | Superior Industries Europe AG | Warsaw Stock Exchange
+URSP.WA^J22 | Ursus SA w upadlosci | Warsaw Stock Exchange
+URT.WA | Urteste SA | Warsaw Stock Exchange
+VAKBN.IS | Turkiye Vakiflar Bankasi TAO | Istanbul Stock Exchange
+VERUS.IS | Verusa Holding AS | Istanbul Stock Exchange
+VESBE.IS | Vestel Beyaz Esya Sanayi ve Ticaret AS | Istanbul Stock Exchange
+VESTL.IS | Vestel Elektronik Sanayi ve Ticaret AS | Istanbul Stock Exchange
+VGOP.WA | Vigo Photonics SA | Warsaw Stock Exchange
+VIGR.PR | Vienna Insurance Group Wiener Versicherung Gruppe AG | Prague Stock Exchange
+VINP.WA | Gielda Praw Majatkowych Vindexus SA | Warsaw Stock Exchange
+VKGYO.IS | Vakif Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+VOT.WA | Votum SA | Warsaw Stock Exchange
+VOXP.WA | Voxel SA | Warsaw Stock Exchange
+VRCP.WA | Vercom SA | Warsaw Stock Exchange
+VRGP.WA | VRG SA | Warsaw Stock Exchange
+VTG.WA^D20 | Vantage Development SA | Warsaw Stock Exchange
+VTL.WA | Vistal Gdynia SA w Upadlosci | Warsaw Stock Exchange
+VVD.WA | Vivid Games SA | Warsaw Stock Exchange
+WABE.BU | Waberer's International Nyrt | Budapest Stock Exchange
+WASP.WA | Wasko SA | Warsaw Stock Exchange
+WAX.WA^J20 | Przedsiebiorstwo Produkcyjno Handlowe Wadex SA | Warsaw Stock Exchange
+WDX.WA^F18 | WDX SA | Warsaw Stock Exchange
+WESP.WA^E17 | Westa Isic SA | Warsaw Stock Exchange
+WIK.WA | Wikana SA | Warsaw Stock Exchange
+WINF.WA^C11 | Devoteam SA | Warsaw Stock Exchange
+WISP.WA^G25 | Baltic Bridge SA | Warsaw Stock Exchange
+WLB.WA^K19 | Wilbo SA | Warsaw Stock Exchange
+WLTP.WA | Wielton SA | Warsaw Stock Exchange
+WOJ.WA^K24 | Wojas SA | Warsaw Stock Exchange
+WPPL.WA | Wirtualna Polska Holding SA | Warsaw Stock Exchange
+WPRP.WA | Woodpecker.co SA | Warsaw Stock Exchange
+WSIP.WA^I10 | Wydawnictwa Szkolne i Pedagogiczne SA | Warsaw Stock Exchange
+WTN.WA | Wittchen SA | Warsaw Stock Exchange
+WWL.WA | Wawel SA | Warsaw Stock Exchange
+WXFP.WA | Warimpex Finanzund Beteiligungs AG | Warsaw Stock Exchange
+XPL.WA | Xplus SA | Warsaw Stock Exchange
+XTB.WA | XTB SA | Warsaw Stock Exchange
+XTP.WA | XTPL SA | Warsaw Stock Exchange
+YAN.WA | Yanosik SA | Warsaw Stock Exchange
+YATAS.IS | Yatas Yatak ve Yorgan Sanayi Ticaret AS | Istanbul Stock Exchange
+YEOTK.IS | Yeo Teknoloji Enerji ve Endustri AS | Istanbul Stock Exchange
+YKBNK.IS | Yapi ve Kredi Bankasi AS | Istanbul Stock Exchange
+YKSGR.IS^D14 | Yapi Kredi Sigorta AS | Istanbul Stock Exchange
+YOL.WA^L25 | Blugo SA W Likwidacji | Warsaw Stock Exchange
+YRLP.WA | Yarrl SA | Warsaw Stock Exchange
+YWL.WA^J15 | Yawal SA | Warsaw Stock Exchange
+YYLGD.IS | Yayla Agro Gida Sanayi ve Ticaret AS | Istanbul Stock Exchange
+ZAB.WA | Zabka Group SA | Warsaw Stock Exchange
+ZAPP.WA | Grupa Azoty Zaklady Azotowe Pulawy SA | Warsaw Stock Exchange
+ZEEP.WA | Ze Pak SA | Warsaw Stock Exchange
+ZLR.WA^F13 | Zelmer SA | Warsaw Stock Exchange
+ZMT.WA | Zamet SA | Warsaw Stock Exchange
+ZOREN.IS | Zorlu Enerji Elektrik Uretim AS | Istanbul Stock Exchange
+ZRE.WA | Zaklad Budowy Maszyn Zremb Chojnice SA | Warsaw Stock Exchange
+ZRGYO.IS | Ziraat Gayrimenkul Yatirim Ortakligi AS | Istanbul Stock Exchange
+ZUE.WA | ZUE SA | Warsaw Stock Exchange
+ZUK.WA | Zaklady Urzadzen Kotlowych Staporkow SA | Warsaw Stock Exchange
+ZWCG.BU | Zwack Unicum Likoripari es Kereskedelmi Nyrt | Budapest Stock Exchange
